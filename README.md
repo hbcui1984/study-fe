@@ -3,6 +3,11 @@
 
 ## 前端框架
 
+### Vue.js
+
+- [细说 Vue.js 3.2 关于响应式部分的优化](https://zhuanlan.zhihu.com/p/401416696)，作者：黄轶
+
+
 ### Svelte
 
 - [新兴前端框架 Svelte 从入门到原理](https://zhuanlan.zhihu.com/p/350507037)，来源：字节前端知乎专栏
