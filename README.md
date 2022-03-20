@@ -20,4 +20,6 @@
 
 ## serverless
 
+- [serverless学习资源汇总](https://github.com/hbcui1984/awesome-serverless)
+
 ## 原生开发
