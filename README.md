@@ -16,6 +16,7 @@
 
 - [小程序类动态App学习资料汇总](https://github.com/hbcui1984/awesome-mp)
 - [深入理解跨平台方案的历史发展逻辑](https://time.geekbang.org/column/article/104077)，来源：极客时间《Flutter 核心技术与实战》
+- [写给前端的跨平台方案、跨端引擎的本质](https://juejin.cn/post/6966626823912308772)，来源：掘金社区
 - [iOS 跨平台开发：Kotlin Multiplatform 入门](https://www.infoq.cn/article/1-il0fjwY9fftVygGl86)
 
 ## serverless
